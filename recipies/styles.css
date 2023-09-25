@@ -1,23 +1,24 @@
 h1 {
     font-size: 50px;
+    text-align: center;
 }
 
 #image {
     background-color: aqua;
-    border: 20px;
-    padding: 5px;
+    margin-left: 700px;
     justify-content: center;
+    border: 10px solid white;
     
         
 }
 
 ul,ol {
-    color: red;
+    color: lightcoral;
     text-align: center;
 }
 
 h2 {
-    color: aqua;
+    color: lightgoldenrodyellow;
 }
 
 body {
@@ -27,8 +28,30 @@ body {
 
 a {
     opacity: initial;
+    margin: auto;
+    text-align: center;
 }
 
 h2,p {
     text-align: center;
+}
+div {
+    width: 400px;
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+    border: 2px solid white;
+    margin-bottom: 4px;
+}
+
+p{
+    width: auto;
+    background-color: bisque;
+    color: black;
+}
+
+.desc {
+    width: 1000px;
+    background-color: aquamarine;
+    padding: 4px;
 }
